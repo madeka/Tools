@@ -1,1 +1,4 @@
-/nfs/2014/m/mdeken/.vimrc
+set nu
+set ru
+syntax on
+set mouse=a
