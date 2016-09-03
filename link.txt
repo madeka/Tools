@@ -1,3 +1,0 @@
-***********************ELEC*************************
-http://www.robot-electronics.co.uk/i2c-tutorial
-http://www.microchipc.com/sourcecode/#i2c
